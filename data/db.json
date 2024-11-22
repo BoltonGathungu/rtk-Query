@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "John Doe",
+      "email": "johny@example.com",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "email": "jane@example.com"
+    },
+    {
+      "id": "3",
+      "name": "Sam Brown",
+      "email": "sam@example.com"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "userId": 1,
+      "title": "First Post",
+      "content": "This is the first post."
+    },
+    {
+      "id": "2",
+      "userId": 2,
+      "title": "Second Post",
+      "content": "This is the second post."
+    },
+    {
+      "id": "3",
+      "userId": 1,
+      "title": "Another Post",
+      "content": "More content here."
+    }
+  ]
+}
